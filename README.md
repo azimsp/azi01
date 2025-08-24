@@ -473,4 +473,4 @@ my NFT01
 </script>
 </body>
 </html>
-32255
+32
