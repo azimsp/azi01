@@ -1,4 +1,4 @@
-# azi01 ,hgmhcxdfshehjghjkl;'khgdsrtyuiop[
+# azi01 ,hgmhcxdfshehjghjkl;
 my NFT01
 <!DOCTYPE html>
 <html lang="en">
