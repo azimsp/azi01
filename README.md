@@ -1,4 +1,4 @@
-# azi01 000
+# azi01 0
 my NFT01
 <!DOCTYPE html>
 <html lang="en">
