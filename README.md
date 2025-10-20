@@ -1,4 +1,4 @@
-# azi01 0125888.02j
+# azi01 0125888.
 my NFT01
 <!DOCTYPE html>
 <html lang="en">
