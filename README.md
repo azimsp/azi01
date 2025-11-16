@@ -1,4 +1,4 @@
-# azi01 0125jk64bkjubkn135468468zh.kh.ieh./iheo6684964684ijoej
+# azi01 0125jk64bkjubkn135468468zh.kh.ieh./iheo6684964684i
 my NFT01
 <!DOCTYPE html>
 <html lang="en">
